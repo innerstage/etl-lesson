@@ -15,8 +15,8 @@ La sigla ETL significa Extract, Transform and Load, al desarrollar un pipeline d
 
 * **Git Basics**:
     * ¿Qué es Git? [(Link 1](https://rogerdudler.github.io/git-guide/), [Link 2)](https://dev.to/doylecodes/git-for-dummies-1a2i)
-    * Clonar un repositorio
-    * Actualizar repositorio clonado
+    * Clonar un repositorio: `git clone https://github.com/innerstage/etl-lesson.git`
+    * Actualizar repositorio clonado: `git fetch origin && git pull`
     * Crear una `branch` personal
     * Hacer un `commit`
     * Hacer un `PR` o `Pull Request`
