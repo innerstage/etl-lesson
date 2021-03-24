@@ -59,7 +59,7 @@ pytz==2019.3
 PyYAML==5.3
 redis==2.10.6
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 Shapely==1.6.4.post2
 six==1.13.0
 snowballstemmer==2.0.0
